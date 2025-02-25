@@ -1,1 +1,1 @@
-![Nouveau projet - 2024-07-09T213710 940](https://github.com/aiotv1/aiotv1/assets/132507643/6e7fed14-8b0b-43a8-a8c9-5ad4972d7274)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=rubik&pause=1000&color=792AF7&vCenter=true&width=435&lines=DEVELOPER;DESIGNER;EDITOR)](https://git.io/typing-svg)
