@@ -5,6 +5,8 @@
 
   <p>I build simple, functional websites and creative software solutions.</p>
 
+  <br />
+
   <a href="https://ko-fi.com/P5P71DYORP">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
   </a>
@@ -12,23 +14,14 @@
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### 🛠️ What I Do
 
-- **Development:** HTML, CSS, JavaScript, and more.
-- **Design:** Creating clean and intuitive user interfaces.
-- **Editing:** Crafting and refining digital content.
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiotv1&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiotv1&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="45%" />
-</div>
+* **Development:** Crafting simple and efficient websites.
+* **Design:** Visualizing ideas through clean designs.
+* **Editing:** Professional content refinement and editing.
 
 ---
 
-### 📫 Connect with me
-- 💼 Check out my repositories for my latest work.
-- ☕ If you like what I do, consider supporting me via Ko-fi!
+### 📫 Get in Touch
+* Check out my projects below.
+* If you find my work helpful, feel free to support me on **Ko-fi**!
