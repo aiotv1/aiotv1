@@ -5,6 +5,8 @@
 
   <p>I build simple, functional websites and creative software solutions.</p>
 
+  <p>🌐 <b>Visit my website:</b> <a href="https://oussamaidiken.site" target="_blank">oussamaidiken.site</a></p>
+
   <br />
 
   <a href="https://ko-fi.com/P5P71DYORP">
@@ -24,4 +26,4 @@
 
 ### 📫 Get in Touch
 * Check out my projects below.
-* If you find my work helpful, feel free to support me on **Ko-fi**!
+* For collaboration or inquiries, visit my website or support me on **Ko-fi**!
