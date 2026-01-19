@@ -26,4 +26,6 @@
 
 ### 📫 Get in Touch
 * Check out my projects below.
-* For collaboration or inquiries, visit my website or support me on **Ko-fi**!
+* For collaboration or inquiries, visit my website or support me on **Ko-fi**
+
+<iframe src="https://www.oussamaidiken.site/ContribChart?username=aiotv1&theme=halloween&year=range&shape=square&size=18&gap=0&dark=true&trans=false&week=false&user=true&border=false&stack=true&embed=true" width="100%" height="638" style="border:none; overflow:hidden;" scrolling="no"></iframe>
